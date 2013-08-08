@@ -22,7 +22,6 @@
     * @package Internal/Mappers
   **/
 	
-	include_once WideImage::path() . '/vendor/de77/BMP.php';
 	
 	/**
 	 * Mapper support for BMP
